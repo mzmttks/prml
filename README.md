@@ -1,0 +1,2 @@
+# prml
+Studying PRML
